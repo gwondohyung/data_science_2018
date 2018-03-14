@@ -4,11 +4,12 @@
 #### 1.1 왜 머신러닝인가? 
 - 1.1.1 머신러닝으로 풀 수 있는 문제 
 - 1.1.2 문제와 데이터 이해하기
- 
+
 #### 1.2 왜 파이썬인가? 
 #### 1.3 scikit-learn 
 - 1.3.1 scikit-learn 설치 
-#### 1.4 [필수 라이브러리와 도구들](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter01/1.4.ipynb)
+#### 1.4 [필수 라이브러리와 도구들](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter01/1.4.ipynb)
+
 - 1.4.1 주피터 노트북 
 - 1.4.2 NumPy 
 - 1.4.3 SciPy 
@@ -16,8 +17,10 @@
 - 1.4.5 pandas 
 - 1.4.6 mglearn 
 #### 1.5 파이썬 2 vs. 파이썬 3 
-#### 1.6 이 책에서 사용하는 소프트웨어 버전 
-#### 1.7 첫 번째 애플리케이션: 붓꽃의 품종 분류 
+#### 1.6 [이 책에서 사용하는 소프트웨어 버전](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter01/1.4.ipynb) 
+
+#### 1.7 [첫 번째 애플리케이션: 붓꽃의 품종 분류](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter01/1.4.ipynb) 
+
 - 1.7.1 데이터 적재 
 - 1.7.2 성과 측정: 훈련 데이터와 테스트 데이터 
 - 1.7.3 가장 먼저 할 일: 데이터 살펴보기 
@@ -33,10 +36,10 @@
 #### 2.2 일반화, 과대적합, 과소적합 
 - 2.2.1 모델 복잡도와 데이터셋 크기의 관계 
 #### 2.3 지도 학습 알고리즘 
-- 2.3.1 예제에 사용할 데이터셋 
-- 2.3.2 k-최근접 이웃 
-- 2.3.3 선형 모델 
-- 2.3.4 나이브 베이즈 분류기 
+- 2.3.1 [예제에 사용할 데이터셋](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter02/2.3.1.ipynb)
+- 2.3.2 [k-최근접 이웃](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter02/2.3.2.ipynb)
+- 2.3.3 [선형 모델](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter02/2.3.3.ipynb) 
+- 2.3.4 [나이브 베이즈 분류기](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter02/2.3.4.ipynb)
 - 2.3.5 결정 트리 
 - 2.3.6 결정 트리의 앙상블 
 - 2.3.7 커널 서포트 벡터 머신 
