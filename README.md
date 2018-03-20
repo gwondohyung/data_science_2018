@@ -32,7 +32,7 @@
 <br/>
 
 ### CHAPTER 2 지도 학습 
-#### 2.1 분류와 회귀 
+#### 2.1 [분류와 회귀](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter02/2.1.ipynb) 
 #### 2.2 일반화, 과대적합, 과소적합 
 - 2.2.1 모델 복잡도와 데이터셋 크기의 관계 
 #### 2.3 지도 학습 알고리즘 
