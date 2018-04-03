@@ -48,7 +48,7 @@
 - 2.4.1 [결정 함수](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter02/2.4.1.ipynb) 
 - 2.4.2 [예측 확률](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter02/2.4.2.ipynb)
 - 2.4.3 [다중 분류에서의 불확실성](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter02/2.4.3.ipynb) 
-2.5 요약 및 정리 
+- 2.5 요약 및 정리 
 
 <br/>
 
