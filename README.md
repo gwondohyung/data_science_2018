@@ -56,7 +56,7 @@
 #### 3.1 비지도 학습의 종류 
 #### 3.2 비지도 학습의 도전 과제 
 #### 3.3 데이터 전처리와 스케일 조정 
-- 3.3.1 [여러 가지 전처리 방법](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter02/3.3.1.ipynb)
+- 3.3.1 [여러 가지 전처리 방법](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.3.1.ipynb)
 - 3.3.2 데이터 변환 적용하기 
 - 3.3.3 훈련 데이터와 테스트 데이터의 스케일을 같은 방법으로 조정하기 
 - 3.3.4 지도 학습에서 데이터 전처리 효과 
