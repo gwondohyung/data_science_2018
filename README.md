@@ -64,62 +64,67 @@
 - 3.4.1 [주성분 분석(PCA)](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.4.1.ipynb) 
 - 3.4.2 [비음수 행렬 분해(NMF)](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.4.2.ipynb) 
   - [numer.ai](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/numer.ai.ipynb)
-- 3.4.3 t-SNE를 이용한 매니폴드 학습 
+- 3.4.3 [t-SNE를 이용한 매니폴드 학습](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.4.3.ipynb)
 #### 3.5 군집 
-- 3.5.1 k-평균 군집 
-- 3.5.2 병합 군집 
-- 3.5.3 DBSCAN 
-- 3.5.4 군집 알고리즘의 비교와 평가 
-- 3.5.5 군집 알고리즘 요약 
+- 3.5.1 [k-평균 군집](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.5.1.ipynb) 
+- 3.5.2 [병합 군집](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.5.2.ipynb) 
+- 3.5.3 [DBSCAN](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.5.3.ipynb) 
+- 3.5.4 [군집 알고리즘의 비교와 평가](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.5.4.ipynb) 
+- 3.5.5 [군집 알고리즘 요약](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.5.5.ipynb) 
 #### 3.6 요약 및 정리 
 
 <br/>
 
 ### CHAPTER 4 데이터 표현과 특성 공학 
 #### 4.1 범주형 변수 
-- 4.1.1 원-핫-인코딩(가변수) 
-- 4.1.2 숫자로 표현된 범주형 특성 
-#### 4.2 구간 분할, 이산화 그리고 선형 모델, 트리 모델 
-#### 4.3 상호작용과 다항식 
-#### 4.4 일변량 비선형 변환 
+- 4.1.1 [원-핫-인코딩(가변수)](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.1.1.ipynb) 
+- 4.1.2 [숫자로 표현된 범주형 특성](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.1.2.ipynb) 
+#### 4.2 [구간 분할, 이산화 그리고 선형 모델, 트리 모델](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.2.ipynb) 
+#### 4.3 [상호작용과 다항식](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.3.ipynb) 
+#### 4.4 [일변량 비선형 변환](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.4.ipynb) 
 #### 4.5 특성 자동 선택 
-- 4.5.1 일변량 통계 
-- 4.5.2 모델 기반 특성 선택 
-- 4.5.3 반복적 특성 선택 
-#### 4.6 전문가 지식 활용 
+- 4.5.1 [일변량 통계](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.5.1.ipynb) 
+- 4.5.2 [모델 기반 특성 선택](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.5.2.ipynb)  
+- 4.5.3 [반복적 특성 선택](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.5.3.ipynb)  
+#### 4.6 [전문가 지식 활용](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.6.ipynb)  
 #### 4.7 요약 및 정리 
 
 <br/>
 
 ### CHAPTER 5 모델 평가와 성능 향상 
 #### 5.1 교차 검증 
-- 5.1.1 scikit-learn의 교차 검증 
-- 5.1.2 교차 검증의 장점 
-- 5.1.3 계층별 k-겹 교차 검증과 그외 전략들 
+- 5.1.1 [scikit-learn의 교차 검증](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.1.1.ipynb) 
+- 5.1.2 [교차 검증의 장점](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.1.2.ipynb) 
+- 5.1.3 [계층별 k-겹 교차 검증과 그외 전략들](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.1.3.ipynb) 
 #### 5.2 그리드 서치 
-- 5.2.1 간단한 그리드 서치 
-- 5.2.2 매개변수 과대적합과 검증 세트 
-- 5.2.3 교차 검증을 사용한 그리드 서치 
+- 5.2.1 [간단한 그리드 서치](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.2.1.ipynb) 
+- 5.2.2 [매개변수 과대적합과 검증 세트](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.2.2.ipynb) 
+- 5.2.3 [교차 검증을 사용한 그리드 서치](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.2.3.ipynb) 
+- 5.2.4 [Analyzing the result of cross-validation](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.2.4.ipynb)
+- 5.2.5 [Grid search with asymmetric parameters](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.2.5.ipynb)
+- 5.2.6 [Using different cross-validation strategies with grid-search](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.2.6.ipynb)
+- 5.2.7 [Nested cross-validation](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.2.7.ipynb)
+- 5.2.8 [Parallelizing cross-validation and grid search](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.2.8.ipynb)
 #### 5.3 평가 지표와 측정 
-- 5.3.1 최종 목표를 기억하라 
-- 5.3.2 이진 분류의 평가 지표 
-- 5.3.3 다중 분류의 평가 지표 
-- 5.3.4 회귀의 평가 지표 
-- 5.3.5 모델 선택에서 평가 지표 사용하기 
+- 5.3.1 [최종 목표를 기억하라](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.3.1.ipynb) 
+- 5.3.2 [이진 분류의 평가 지표](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.3.2.ipynb) 
+- 5.3.3 [다중 분류의 평가 지표](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.3.3.ipynb) 
+- 5.3.4 [회귀의 평가 지표](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.3.4.ipynb) 
+- 5.3.5 [모델 선택에서 평가 지표 사용하기](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.3.5.ipynb) 
 #### 5.4 요약 및 정리 
 
 <br/>
 
 ### CHAPTER 6 알고리즘 체인과 파이프라인 
-#### 6.1 데이터 전처리와 매개변수 선택 
-#### 6.2 파이프라인 구축하기 
-#### 6.3 그리드 서치에 파이프라인 적용하기 
-#### 6.4 파이프라인 인터페이스 
+#### 6.1 [데이터 전처리와 매개변수 선택](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter06/6.1.ipynb) 
+#### 6.2 [파이프라인 구축하기](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter06/6.2.ipynb) 
+#### 6.3 [그리드 서치에 파이프라인 적용하기](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter06/6.3.ipynb) 
+#### 6.4 [파이프라인 인터페이스](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter06/6.4.ipynb) 
 - 6.4.1 make- pipleline을 사용한 파이프라인 생성 
 - 6.4.2 단계 속성에 접근하기 
 - 6.4.3 그리드 서치 안의 파이프라인 속성에 접근하기 
-#### 6.5 전처리와 모델의 매개변수를 위한 그리드 서치 
-#### 6.6 모델 선택을 위한 그리드 서치 
+#### 6.5 [전처리와 모델의 매개변수를 위한 그리드 서치](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter06/6.5.ipynb) 
+#### 6.6 [모델 선택을 위한 그리드 서치](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter06/6.6.ipynb) 
 #### 6.7 요약 및 정리 
 
 <br/>
