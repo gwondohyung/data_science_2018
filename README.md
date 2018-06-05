@@ -70,7 +70,7 @@
 - 3.5.2 [병합 군집](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.5.2.ipynb) 
 - 3.5.3 [DBSCAN](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.5.3.ipynb) 
 - 3.5.4 [군집 알고리즘의 비교와 평가](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.5.4.ipynb) 
-- 3.5.5 [군집 알고리즘 요약](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter03/3.5.5.ipynb) 
+- 3.5.5 군집 알고리즘 요약
 #### 3.6 요약 및 정리 
 
 <br/>
@@ -86,7 +86,7 @@
 - 4.5.1 [일변량 통계](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.5.1.ipynb) 
 - 4.5.2 [모델 기반 특성 선택](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.5.2.ipynb)  
 - 4.5.3 [반복적 특성 선택](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.5.3.ipynb)  
-#### 4.6 [전문가 지식 활용](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter04/4.6.ipynb)  
+#### 4.6 전문가 지식 활용  
 #### 4.7 요약 및 정리 
 
 <br/>
@@ -110,7 +110,7 @@
 - 5.3.2 [이진 분류의 평가 지표](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.3.2.ipynb) 
 - 5.3.3 [다중 분류의 평가 지표](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.3.3.ipynb) 
 - 5.3.4 [회귀의 평가 지표](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.3.4.ipynb) 
-- 5.3.5 [모델 선택에서 평가 지표 사용하기](http://nbviewer.jupyter.org/github/tfedohk/data_science_2018/blob/master/Chapter05/5.3.5.ipynb) 
+- 5.3.5 모델 선택에서 평가 지표 사용하기 
 #### 5.4 요약 및 정리 
 
 <br/>
